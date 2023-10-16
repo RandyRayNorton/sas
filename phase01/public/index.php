@@ -1,6 +1,7 @@
 <?php require_once('../private/initialize.php'); ?>
 
 <?php 
+
 // comment for commit
 $pageTitle = 'SAS - Home';
 include(SHARED_PATH . '/salamander-header.php');
