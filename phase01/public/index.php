@@ -1,6 +1,6 @@
 <?php require_once('../private/initialize.php'); ?>
 
-<?php 
+<?php  
 
 // comment for commit
 $pageTitle = 'SAS - Home';
