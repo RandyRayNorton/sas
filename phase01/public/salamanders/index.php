@@ -34,7 +34,7 @@ $salamanders = [
           <td><a href="#">Edit</a></td>
           <td><a href="#">Delete</a></td>
     	  </tr>
-      <?php } ?>
+      <?php } ?> 
   	</table>
 
     <?php include(SHARED_PATH . '/salamander-footer.php'); ?>
