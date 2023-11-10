@@ -8,7 +8,7 @@ $salamanders = [
 ];
 
 $page_title = 'Salamanders';
-include(SHARED_PATH . '/salamander_header.php'); ?>
+include(SHARED_PATH . '/salamander-header.php'); ?>
 
 <div id="content">
   <div class="subject listing">
@@ -40,4 +40,4 @@ include(SHARED_PATH . '/salamander_header.php'); ?>
   </div>
 </div>
 </div>
-<?php include(SHARED_PATH . '/salamander_footer.php'); ?>
+<?php include(SHARED_PATH . '/salamander-footer.php'); ?>

@@ -26,7 +26,7 @@ if(is_post_request()) {
 ?>
 
 <?php $page_title = 'Create Subject'; ?>
-<?php include(SHARED_PATH . '/salamander_header.php'); ?>
+<?php include(SHARED_PATH . '/salamander-header.php'); ?>
 
 <div id="content">
 
@@ -64,4 +64,4 @@ if(is_post_request()) {
 
 </div>
 
-<?php include(SHARED_PATH . '/salamander_footer.php'); ?>
+<?php include(SHARED_PATH . '/salamander-footer.php'); ?>
